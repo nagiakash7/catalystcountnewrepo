@@ -26,4 +26,10 @@ I was not sure of keywords and employee so i have not added that filter. Rest ha
 
 Feel free to contact me at +91 9967984238 for queries 
 
+![image](https://github.com/nagiakash7/catalystcountnewrepo/assets/46391923/f0514fca-6184-481d-91e7-e8a2d8d30365)
+Here one can upload the csv 
+
+![image](https://github.com/nagiakash7/catalystcountnewrepo/assets/46391923/8444866e-c1f4-4947-9ed1-b4adf5146445)
+Here one can query the results
+
 
